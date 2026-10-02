@@ -9,3 +9,4 @@ GitHub 가입 및 첫 번째 Repository 만들기
 - Repository = 프로젝트 저장소
 - README = 프로젝트 설명서
 - GitHub에서 파일을 직접 수정할 수 있다.
+다음 목표: Python으로 간단한 AI 실습 해보기
